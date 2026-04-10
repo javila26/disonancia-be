@@ -24,6 +24,7 @@ async function bootstrap() {
       'http://192.168.0.3:5173',
       'http://192.168.0.6:5173',
       'https://192.168.0.6:5173',
+      'https://disonancia.store',
     ],
     // origin: false,
   });
